@@ -1,1 +1,1 @@
-# Tubes-AKA
+Pengolahan data sering kali memerlukan penggabungan dua array terurut menjadi satu array terurut. Masalah ini umum ditemukan dalam algoritma pengurutan dan manipulasi data, terutama dalam aplikasi seperti pengelolaan basis data, analisis big data, dan sistem pemrosesan real-time
