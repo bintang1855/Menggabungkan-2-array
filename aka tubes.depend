@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1735025311 source:d:\kuliah\semester 3\aka\cpp\aka tubes\main.cpp
+	<windows.h>
+	<sstream>
+	<string>
+	<chrono>
+	<fstream>
+	<algorithm>
+	<vector>
+	"array_data.h"
+
+1735014315 d:\kuliah\semester 3\aka\cpp\aka tubes\array_data.cpp
+	"array_data.h"
+
+1735014320 d:\kuliah\semester 3\aka\cpp\aka tubes\array_data.h
+
+1735014315 source:d:\kuliah\semester 3\aka\cpp\aka tubes\array_data.cpp
+	"array_data.h"
+
+1735019661 source:d:\kuliah\semester 3\aka\cpp\aka tubes\main2.cpp
+	<windows.h>
+	<sstream>
+	<string>
+	<chrono>
+	<fstream>
+	"array_data.h"
+
