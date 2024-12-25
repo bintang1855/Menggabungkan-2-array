@@ -161,38 +161,45 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT msg, WPARAM wParam, LPARAM lParam) {
 }
 
 void mergeArrays(int ar1[], int n1, int ar2[], int n2, int ar3[]) {
-    int k = 0;
-    for (int i = 0, j = 0; i < n1 || j < n2; ) {
-        if (i < n1 && (j >= n2 || ar1[i] < ar2[j])) {
-            ar3[k++] = ar1[i++];
+    int i = 0, j = 0, k = 0;
+
+    // Loop ini digunakan untuk menggabungkan elemen-elemen dari kedua array sampai salah satu array habis
+    for (i = 0, j = 0, k = 0; i < n1 && j < n2; k++) {
+        // Kondisi ini memeriksa apakah elemen saat ini di ar1 lebih kecil dari elemen di ar2
+        if (ar1[i] < ar2[j]) {
+            ar3[k] = ar1[i];
+            i++;
         } else {
-            ar3[k++] = ar2[j++];
+            ar3[k] = ar2[j];
+            j++;
         }
+    }
+
+    // Copy remaining elements from ar1, if any
+    for (i = i; i < n1; i++, k++) {
+        ar3[k] = ar1[i];
+    }
+
+    // Copy remaining elements from ar2, if any
+    for (j = j; j < n2; j++, k++) {
+        ar3[k] = ar2[j];
     }
 }
 
 void mergeRecursive(int ar1[], int n1, int ar2[], int n2, int ar3[]) {
-    if (n1 == 0) {
-        if (n2 > 0) {
+    if (n1 == 0 && n2 > 0) {
+        *ar3 = *ar2;
+        mergeRecursive(ar1, n1, ar2 + 1, n2 - 1, ar3 + 1);
+    } else if (n2 == 0 && n1 > 0) {
+        *ar3 = *ar1;
+        mergeRecursive(ar1 + 1, n1 - 1, ar2, n2, ar3 + 1);
+    } else if (n1 > 0 && n2 > 0) {
+        if (*ar1 < *ar2) {
+            *ar3 = *ar1;
+            mergeRecursive(ar1 + 1, n1 - 1, ar2, n2, ar3 + 1);
+        } else {
             *ar3 = *ar2;
             mergeRecursive(ar1, n1, ar2 + 1, n2 - 1, ar3 + 1);
         }
-        return;
-    }
-
-    if (n2 == 0) {
-        if (n1 > 0) {
-            *ar3 = *ar1;
-            mergeRecursive(ar1 + 1, n1 - 1, ar2, n2, ar3 + 1);
-        }
-        return;
-    }
-
-    if (*ar1 < *ar2) {
-        *ar3 = *ar1;
-        mergeRecursive(ar1 + 1, n1 - 1, ar2, n2, ar3 + 1);
-    } else {
-        *ar3 = *ar2;
-        mergeRecursive(ar1, n1, ar2 + 1, n2 - 1, ar3 + 1);
     }
 }
