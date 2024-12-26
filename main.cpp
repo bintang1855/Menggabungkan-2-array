@@ -187,13 +187,7 @@ void mergeArrays(int ar1[], int n1, int ar2[], int n2, int ar3[]) {
 }
 
 void mergeRecursive(int ar1[], int n1, int ar2[], int n2, int ar3[]) {
-    if (n1 == 0 && n2 > 0) {
-        *ar3 = *ar2;
-        mergeRecursive(ar1, n1, ar2 + 1, n2 - 1, ar3 + 1);
-    } else if (n2 == 0 && n1 > 0) {
-        *ar3 = *ar1;
-        mergeRecursive(ar1 + 1, n1 - 1, ar2, n2, ar3 + 1);
-    } else if (n1 > 0 && n2 > 0) {
+     if (n1 > 0 && n2 > 0) {
         if (*ar1 < *ar2) {
             *ar3 = *ar1;
             mergeRecursive(ar1 + 1, n1 - 1, ar2, n2, ar3 + 1);
