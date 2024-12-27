@@ -3,9 +3,7 @@
 #include <string>
 #include <chrono>
 #include <fstream>
-#include <algorithm>
 #include <vector>
-#include "array_data.h"
 
 LRESULT CALLBACK WndProc(HWND hwnd, UINT msg, WPARAM wParam, LPARAM lParam);
 void mergeArrays(int ar1[], int n1, int ar2[], int n2, int ar3[]);
@@ -18,7 +16,7 @@ void writeLog(const std::string& logPath, const std::vector<double>& times) {
     std::ofstream logFile(logPath, std::ios::app);
     if (logFile.is_open()) {
         for (size_t i = 0; i < times.size(); ++i) {
-            logFile << times[i] << "\n";
+            logFile << "Iteration " << (i + 1) << ": " << times[i] << " ms\n";
         }
         logFile.close();
         OutputDebugString("Log written successfully.\n");
@@ -36,8 +34,8 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
     RegisterClass(&wc);
 
     HWND hwnd = CreateWindowEx(
-        0, "MergeArrayWindow", "Merge Sorted Arrays",
-        WS_OVERLAPPEDWINDOW, CW_USEDEFAULT, CW_USEDEFAULT, 700, 750,
+        0, "MergeArrayWindow", "Merge Arrays Without Sorting",
+        WS_OVERLAPPEDWINDOW, CW_USEDEFAULT, CW_USEDEFAULT, 700, 850,
         NULL, NULL, hInstance, NULL);
 
     if (!hwnd) return 0;
@@ -56,45 +54,42 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
 LRESULT CALLBACK WndProc(HWND hwnd, UINT msg, WPARAM wParam, LPARAM lParam) {
     switch (msg) {
         case WM_CREATE: {
-            CreateWindow("STATIC", "Merge Sorted Arrays Program", WS_VISIBLE | WS_CHILD | SS_CENTER,
+            CreateWindow("STATIC", "Merge Arrays Program", WS_VISIBLE | WS_CHILD | SS_CENTER,
                          20, 10, 640, 30, hwnd, NULL, NULL, NULL);
 
             CreateWindow("STATIC", "Array 1 (space-separated):", WS_VISIBLE | WS_CHILD,
                          20, 50, 200, 20, hwnd, NULL, NULL, NULL);
-            hEdit1 = CreateWindow("EDIT", "", WS_VISIBLE | WS_CHILD | WS_BORDER | ES_MULTILINE,
-                                  20, 70, 640, 25, hwnd, NULL, NULL, NULL);
+            hEdit1 = CreateWindow("EDIT", "", WS_VISIBLE | WS_CHILD | WS_BORDER | ES_MULTILINE | ES_AUTOVSCROLL | ES_AUTOHSCROLL,
+                                  20, 70, 640, 100, hwnd, NULL, NULL, NULL);
 
             CreateWindow("STATIC", "Array 2 (space-separated):", WS_VISIBLE | WS_CHILD,
-                         20, 110, 200, 20, hwnd, NULL, NULL, NULL);
-            hEdit2 = CreateWindow("EDIT", "", WS_VISIBLE | WS_CHILD | WS_BORDER | ES_MULTILINE,
-                                  20, 130, 640, 25, hwnd, NULL, NULL, NULL);
+                         20, 180, 200, 20, hwnd, NULL, NULL, NULL);
+            hEdit2 = CreateWindow("EDIT", "", WS_VISIBLE | WS_CHILD | WS_BORDER | ES_MULTILINE | ES_AUTOVSCROLL | ES_AUTOHSCROLL,
+                                  20, 200, 640, 100, hwnd, NULL, NULL, NULL);
 
-            CreateWindow("BUTTON", "Merge and Sort", WS_VISIBLE | WS_CHILD | BS_DEFPUSHBUTTON,
-                         20, 170, 300, 30, hwnd, (HMENU)1, NULL, NULL);
-
-            CreateWindow("BUTTON", "Load Predefined Arrays", WS_VISIBLE | WS_CHILD,
-                         360, 170, 300, 30, hwnd, (HMENU)2, NULL, NULL);
+            CreateWindow("BUTTON", "Merge Arrays", WS_VISIBLE | WS_CHILD | BS_DEFPUSHBUTTON,
+                         20, 310, 640, 30, hwnd, (HMENU)1, NULL, NULL);
 
             CreateWindow("STATIC", "Iterative Result:", WS_VISIBLE | WS_CHILD,
-                         20, 220, 200, 20, hwnd, NULL, NULL, NULL);
-            hResultIterative = CreateWindow("EDIT", "", WS_VISIBLE | WS_CHILD | WS_BORDER | ES_READONLY | ES_MULTILINE,
-                                           20, 240, 640, 50, hwnd, NULL, NULL, NULL);
+                         20, 360, 200, 20, hwnd, NULL, NULL, NULL);
+            hResultIterative = CreateWindow("EDIT", "", WS_VISIBLE | WS_CHILD | WS_BORDER | ES_READONLY | ES_MULTILINE | ES_AUTOVSCROLL,
+                                           20, 380, 640, 100, hwnd, NULL, NULL, NULL);
 
             CreateWindow("STATIC", "Recursive Result:", WS_VISIBLE | WS_CHILD,
-                         20, 340, 200, 20, hwnd, NULL, NULL, NULL);
-            hResultRecursive = CreateWindow("EDIT", "", WS_VISIBLE | WS_CHILD | WS_BORDER | ES_READONLY | ES_MULTILINE,
-                                           20, 360, 640, 50, hwnd, NULL, NULL, NULL);
+                         20, 490, 200, 20, hwnd, NULL, NULL, NULL);
+            hResultRecursive = CreateWindow("EDIT", "", WS_VISIBLE | WS_CHILD | WS_BORDER | ES_READONLY | ES_MULTILINE | ES_AUTOVSCROLL,
+                                           20, 510, 640, 100, hwnd, NULL, NULL, NULL);
 
             break;
         }
 
         case WM_COMMAND: {
             if (LOWORD(wParam) == 1) {
-                char buffer1[8192], buffer2[8192];
-                GetWindowText(hEdit1, buffer1, 8192);
-                GetWindowText(hEdit2, buffer2, 8192);
+                char buffer1[65536], buffer2[65536];
+                GetWindowText(hEdit1, buffer1, 65536);
+                GetWindowText(hEdit2, buffer2, 65536);
 
-                int ar1[1000], ar2[1000], ar3[2000];
+                int ar1[10000], ar2[10000], ar3[20000];
                 int n1 = 0, n2 = 0;
 
                 char* token = strtok(buffer1, " ");
@@ -109,8 +104,7 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT msg, WPARAM wParam, LPARAM lParam) {
                     token = strtok(NULL, " ");
                 }
 
-                std::vector<double> iterativeTimes;
-                std::vector<double> recursiveTimes;
+                std::vector<double> iterativeTimes, recursiveTimes;
 
                 for (int i = 0; i < n1 + n2; ++i) {
                     auto startIterative = std::chrono::high_resolution_clock::now();
@@ -119,14 +113,13 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT msg, WPARAM wParam, LPARAM lParam) {
                     std::chrono::duration<double, std::milli> elapsedIterative = endIterative - startIterative;
                     iterativeTimes.push_back(elapsedIterative.count());
                 }
-                writeLog("iterative_log.txt", iterativeTimes);
 
-                std::sort(ar3, ar3 + n1 + n2);
                 std::stringstream resultIterative;
                 for (int i = 0; i < n1 + n2; i++) {
                     resultIterative << ar3[i] << " ";
                 }
                 SetWindowText(hResultIterative, resultIterative.str().c_str());
+                writeLog("iterative_log.txt", iterativeTimes);
 
                 for (int i = 0; i < n1 + n2; ++i) {
                     auto startRecursive = std::chrono::high_resolution_clock::now();
@@ -135,17 +128,13 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT msg, WPARAM wParam, LPARAM lParam) {
                     std::chrono::duration<double, std::milli> elapsedRecursive = endRecursive - startRecursive;
                     recursiveTimes.push_back(elapsedRecursive.count());
                 }
-                writeLog("recursive_log.txt", recursiveTimes);
 
-                std::sort(ar3, ar3 + n1 + n2);
                 std::stringstream resultRecursive;
                 for (int i = 0; i < n1 + n2; i++) {
                     resultRecursive << ar3[i] << " ";
                 }
                 SetWindowText(hResultRecursive, resultRecursive.str().c_str());
-            } else if (LOWORD(wParam) == 2) {
-                SetWindowText(hEdit1, predefinedArray1);
-                SetWindowText(hEdit2, predefinedArray2);
+                writeLog("recursive_log.txt", recursiveTimes);
             }
             break;
         }
@@ -161,43 +150,23 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT msg, WPARAM wParam, LPARAM lParam) {
 }
 
 void mergeArrays(int ar1[], int n1, int ar2[], int n2, int ar3[]) {
-    int i = 0, j = 0, k = 0;
-    for (i = 0, j = 0, k = 0; i < n1 && j < n2; k++) {
-        if (ar1[i] < ar2[j]) {
-            ar3[k] = ar1[i];
-            i++;
-        } else {
-            ar3[k] = ar2[j];
-            j++;
-        }
+    // Menyalin semua elemen dari ar1 ke ar3
+    for (int i = 0; i < n1; i++) {
+        ar3[i] = ar1[i];
     }
-
-    for (i = i; i < n1; i++, k++) {
-        ar3[k] = ar1[i];
-    }
-
-    for (j = j; j < n2; j++, k++) {
-        ar3[k] = ar2[j];
+    // Menyalin semua elemen dari ar2 ke ar3 setelah elemen ar1
+    for (int j = 0; j < n2; j++) {
+        ar3[n1 + j] = ar2[j];
     }
 }
 
+
 void mergeRecursive(int ar1[], int n1, int ar2[], int n2, int ar3[]) {
-    if (n1 > 0 && n2 > 0) {
-        if (*ar1 < *ar2) {
-            *ar3 = *ar1;
-            mergeRecursive(ar1 + 1, n1 - 1, ar2, n2, ar3 + 1);
-        } else {
-            *ar3 = *ar2;
-            mergeRecursive(ar1, n1, ar2 + 1, n2 - 1, ar3 + 1);
-        }
-    } else {
-        if (n1 > 0) {
-            *ar3 = *ar1;
-            mergeRecursive(ar1 + 1, n1 - 1, ar2, n2, ar3 + 1);
-        }
-        if (n2 > 0) {
-            *ar3 = *ar2;
-            mergeRecursive(ar1, n1, ar2 + 1, n2 - 1, ar3 + 1);
-        }
+    if (n1 > 0) {
+        *ar3 = *ar1;
+        mergeRecursive(ar1 + 1, n1 - 1, ar2, n2, ar3 + 1);
+    } else if (n2 > 0) {
+        *ar3 = *ar2;
+        mergeRecursive(ar1, n1, ar2 + 1, n2 - 1, ar3 + 1);
     }
 }

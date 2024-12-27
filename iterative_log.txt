@@ -1,1000 +1,1308 @@
-0.0027
-0.0023
-0.0021
-0.0023
-0.0021
-0.002
-0.0021
-0.0021
-0.0022
-0.0022
-0.0021
-0.0021
-0.0021
-0.0021
-0.0022
-0.0022
-0.0021
-0.0021
-0.0021
-0.0022
-0.0022
-0.0022
-0.0022
-0.0023
-0.0022
-0.0022
-0.0021
-0.002
-0.0021
-0.0021
-0.0021
-0.0021
-0.0021
-0.0022
-0.0021
-0.0022
-0.0021
-0.0021
-0.0022
-0.0022
-0.0022
-0.0021
-0.0021
-0.002
-0.0021
-0.002
-0.002
-0.002
-0.002
-0.0019
-0.0021
-0.002
-0.002
-0.0021
-0.0023
-0.0022
-0.0021
-0.0021
-0.0022
-0.0022
-0.0021
-0.0021
-0.0022
-0.0021
-0.0021
-0.0021
-0.0022
-0.002
-0.0021
-0.0021
-0.0021
-0.0021
-0.0022
-0.0022
-0.0021
-0.0021
-0.0022
-0.0021
-0.0022
-0.0021
-0.0022
-0.0022
-0.0021
-0.0021
-0.0022
-0.002
-0.002
-0.002
-0.002
-0.0021
-0.0022
-0.0021
-0.002
-0.0021
-0.0021
-0.0021
-0.0021
-0.0021
-0.0021
-0.0021
-0.0021
-0.002
-0.0021
-0.0021
-0.0022
-0.002
-0.0021
-0.002
-0.002
-0.0021
-0.0021
-0.0021
-0.0022
-0.0021
-0.0022
-0.002
-0.002
-0.002
-0.0021
-0.0021
-0.0021
-0.0021
-0.0021
-0.0021
-0.003
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0018
-0.0018
-0.0019
-0.0018
-0.002
-0.0019
-0.0019
-0.0019
-0.0018
-0.0019
-0.0019
-0.0019
-0.0019
-0.0018
-0.0018
-0.0017
-0.0019
-0.0018
-0.0018
-0.0018
-0.0017
-0.0017
-0.0017
-0.0017
-0.0018
-0.0019
-0.0017
-0.0018
-0.0018
-0.0019
-0.0018
-0.0019
-0.0019
-0.0018
-0.0018
-0.0018
-0.0018
-0.0018
-0.0018
-0.0018
-0.0018
-0.0019
-0.0019
-0.0018
-0.0018
-0.0019
-0.0018
-0.0018
-0.0018
-0.0018
-0.0018
-0.0018
-0.0017
-0.0017
-0.0018
-0.0017
-0.0018
-0.0018
-0.0018
-0.0017
-0.0018
-0.0019
-0.0018
-0.0018
-0.0019
-0.0018
-0.0018
-0.0018
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0018
-0.0018
-0.0018
-0.002
-0.0018
-0.0019
-0.0033
-0.0019
-0.0019
-0.0019
-0.002
-0.0019
-0.0019
-0.0019
-0.002
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.002
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.002
-0.0019
-0.0019
-0.0019
-0.0019
-0.002
-0.0019
-0.0019
-0.002
-0.0019
-0.0019
-0.002
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0018
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.002
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.002
-0.0019
-0.0019
-0.002
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.002
-0.0019
-0.0019
-0.0018
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.002
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.002
-0.002
-0.0019
-0.0019
-0.0019
-0.0019
-0.002
-0.002
-0.0019
-0.002
-0.0019
-0.0019
-0.0019
-0.0019
-0.002
-0.0019
-0.0019
-0.0018
-0.0019
-0.0019
-0.002
-0.0019
-0.0018
-0.0019
-0.0019
-0.0019
-0.0019
-0.002
-0.0019
-0.0019
-0.0019
-0.002
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.002
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0018
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.002
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0018
-0.0019
-0.002
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.002
-0.0021
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0018
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0084
-0.0019
-0.0018
-0.0019
-0.0018
-0.0019
-0.0019
-0.0018
-0.0019
-0.0019
-0.0018
-0.0019
-0.0018
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0018
-0.0019
-0.0018
-0.0018
-0.0018
-0.0018
-0.0019
-0.0019
-0.0018
-0.0018
-0.0018
-0.0019
-0.0018
-0.0018
-0.0018
-0.0019
-0.0019
-0.0018
-0.0018
-0.0018
-0.0018
-0.0019
-0.0018
-0.0019
-0.0019
-0.0019
-0.0019
-0.0018
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0019
-0.0018
-0.0019
-0.0019
-0.0031
-0.0036
-0.0019
-0.0018
-0.0016
-0.0017
-0.0018
-0.0018
-0.0019
-0.0018
-0.0018
-0.0018
-0.0017
-0.0016
-0.0018
-0.0018
-0.0019
-0.0017
-0.0018
-0.0018
-0.0018
-0.0017
-0.0017
-0.0018
-0.0017
-0.0018
-0.0018
-0.0018
-0.0018
-0.0018
-0.0018
-0.0018
-0.0017
-0.0017
-0.0017
-0.0018
-0.0018
-0.0018
-0.0019
-0.0018
-0.0019
-0.0018
-0.0017
-0.0018
-0.0018
-0.0018
-0.0018
-0.0016
-0.0018
-0.0018
-0.0016
-0.0007
-0.0007
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0005
-0.0005
-0.0005
-0.0005
-0.0006
-0.0006
-0.0006
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0005
-0.0005
-0.0005
-0.0005
-0.0006
-0.0006
-0.0006
-0.0005
-0.0005
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0005
-0.0005
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0006
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0005
-0.0005
-0.0005
-0.0006
-0.0006
-0.0005
-0.0005
-0.0006
-0.0006
-0.0006
-0.0005
-0.0005
-0.0005
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0005
-0.0005
-0.0005
-0.0005
-0.0006
-0.0005
-0.0006
-0.0006
-0.0006
-0.0005
-0.0006
-0.0006
-0.0006
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0005
-0.0005
-0.0005
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0006
-0.0005
-0.0005
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0006
-0.0005
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0006
-0.0005
-0.0006
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0006
-0.0005
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0007
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0006
-0.0006
-0.0006
-0.0005
-0.0006
-0.0005
-0.0006
-0.0006
-0.0006
-0.0005
-0.0006
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0005
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0005
-0.0005
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0005
-0.0005
-0.0005
-0.0005
-0.0006
-0.0006
-0.0005
-0.0005
-0.0006
-0.0006
-0.0005
-0.0005
-0.0005
-0.0006
-0.0006
-0.0005
-0.0005
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0005
-0.0005
-0.0005
-0.0005
-0.0005
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0005
-0.0005
-0.0005
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0006
-0.0079
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0006
-0.0006
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0007
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0006
-0.0007
-0.0006
-0.0006
-0.0006
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0007
-0.0006
-0.0007
-0.0006
-0.0007
-0.0006
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0006
-0.0006
-0.0007
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0006
-0.0006
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0006
-0.0006
-0.0006
-0.0006
-0.0005
-0.0006
-0.0006
-0.0006
+Iteration 1: 0.0005 ms
+Iteration 2: 0.0004 ms
+Iteration 3: 0.0007 ms
+Iteration 4: 0.0006 ms
+Iteration 5: 0.0007 ms
+Iteration 6: 0.0007 ms
+Iteration 7: 0.0004 ms
+Iteration 8: 0.0007 ms
+Iteration 9: 0.0007 ms
+Iteration 10: 0.0006 ms
+Iteration 11: 0.0003 ms
+Iteration 12: 0.0003 ms
+Iteration 13: 0.0004 ms
+Iteration 14: 0.0003 ms
+Iteration 15: 0.0003 ms
+Iteration 16: 0.0003 ms
+Iteration 17: 0.0003 ms
+Iteration 18: 0.0003 ms
+Iteration 19: 0.0003 ms
+Iteration 20: 0.0003 ms
+Iteration 21: 0.0003 ms
+Iteration 22: 0.0003 ms
+Iteration 23: 0.0003 ms
+Iteration 24: 0.0003 ms
+Iteration 25: 0.0003 ms
+Iteration 26: 0.0003 ms
+Iteration 27: 0.0003 ms
+Iteration 28: 0.0003 ms
+Iteration 29: 0.0003 ms
+Iteration 30: 0.0003 ms
+Iteration 31: 0.0003 ms
+Iteration 32: 0.0003 ms
+Iteration 33: 0.0003 ms
+Iteration 34: 0.0004 ms
+Iteration 35: 0.0005 ms
+Iteration 36: 0.0007 ms
+Iteration 37: 0.0007 ms
+Iteration 38: 0.0007 ms
+Iteration 39: 0.0007 ms
+Iteration 40: 0.0006 ms
+Iteration 41: 0.0008 ms
+Iteration 42: 0.0007 ms
+Iteration 43: 0.0008 ms
+Iteration 44: 0.0006 ms
+Iteration 45: 0.0008 ms
+Iteration 46: 0.0008 ms
+Iteration 47: 0.0008 ms
+Iteration 48: 0.0008 ms
+Iteration 49: 0.0007 ms
+Iteration 50: 0.0007 ms
+Iteration 51: 0.0008 ms
+Iteration 52: 0.0005 ms
+Iteration 53: 0.0006 ms
+Iteration 54: 0.0007 ms
+Iteration 55: 0.0007 ms
+Iteration 56: 0.0007 ms
+Iteration 57: 0.0008 ms
+Iteration 58: 0.0008 ms
+Iteration 59: 0.0008 ms
+Iteration 60: 0.0007 ms
+Iteration 61: 0.0008 ms
+Iteration 62: 0.0008 ms
+Iteration 63: 0.0008 ms
+Iteration 64: 0.0004 ms
+Iteration 65: 0.0007 ms
+Iteration 66: 0.0004 ms
+Iteration 67: 0.0004 ms
+Iteration 68: 0.0004 ms
+Iteration 69: 0.0003 ms
+Iteration 70: 0.0007 ms
+Iteration 71: 0.0007 ms
+Iteration 72: 0.0006 ms
+Iteration 73: 0.0005 ms
+Iteration 74: 0.0007 ms
+Iteration 75: 0.0006 ms
+Iteration 76: 0.0006 ms
+Iteration 77: 0.0003 ms
+Iteration 78: 0.0005 ms
+Iteration 79: 0.0008 ms
+Iteration 80: 0.0007 ms
+Iteration 81: 0.0005 ms
+Iteration 82: 0.0008 ms
+Iteration 83: 0.0007 ms
+Iteration 84: 0.0007 ms
+Iteration 85: 0.0007 ms
+Iteration 86: 0.0007 ms
+Iteration 87: 0.0005 ms
+Iteration 88: 0.0008 ms
+Iteration 89: 0.0007 ms
+Iteration 90: 0.0008 ms
+Iteration 91: 0.0006 ms
+Iteration 92: 0.0007 ms
+Iteration 93: 0.0007 ms
+Iteration 94: 0.0008 ms
+Iteration 95: 0.0008 ms
+Iteration 96: 0.0006 ms
+Iteration 97: 0.0007 ms
+Iteration 98: 0.0007 ms
+Iteration 99: 0.0007 ms
+Iteration 100: 0.0006 ms
+Iteration 101: 0.0006 ms
+Iteration 102: 0.0007 ms
+Iteration 103: 0.0006 ms
+Iteration 104: 0.0007 ms
+Iteration 105: 0.0004 ms
+Iteration 106: 0.0008 ms
+Iteration 107: 0.0008 ms
+Iteration 108: 0.0008 ms
+Iteration 109: 0.0008 ms
+Iteration 110: 0.0008 ms
+Iteration 111: 0.0006 ms
+Iteration 112: 0.0007 ms
+Iteration 113: 0.0006 ms
+Iteration 114: 0.0003 ms
+Iteration 115: 0.0007 ms
+Iteration 116: 0.0007 ms
+Iteration 117: 0.0005 ms
+Iteration 118: 0.0005 ms
+Iteration 119: 0.0007 ms
+Iteration 120: 0.0008 ms
+Iteration 121: 0.0008 ms
+Iteration 122: 0.0007 ms
+Iteration 123: 0.0008 ms
+Iteration 124: 0.0008 ms
+Iteration 125: 0.0007 ms
+Iteration 126: 0.0007 ms
+Iteration 127: 0.0006 ms
+Iteration 128: 0.0008 ms
+Iteration 129: 0.0007 ms
+Iteration 130: 0.0006 ms
+Iteration 131: 0.0004 ms
+Iteration 132: 0.0003 ms
+Iteration 133: 0.0008 ms
+Iteration 134: 0.0007 ms
+Iteration 135: 0.0008 ms
+Iteration 136: 0.0007 ms
+Iteration 137: 0.0005 ms
+Iteration 138: 0.0006 ms
+Iteration 139: 0.0007 ms
+Iteration 140: 0.0007 ms
+Iteration 141: 0.0007 ms
+Iteration 142: 0.0007 ms
+Iteration 143: 0.0008 ms
+Iteration 144: 0.0008 ms
+Iteration 145: 0.0007 ms
+Iteration 146: 0.0007 ms
+Iteration 147: 0.0008 ms
+Iteration 148: 0.0008 ms
+Iteration 149: 0.0007 ms
+Iteration 150: 0.0008 ms
+Iteration 151: 0.0007 ms
+Iteration 152: 0.0004 ms
+Iteration 153: 0.0007 ms
+Iteration 154: 0.0009 ms
+Iteration 155: 0.0008 ms
+Iteration 156: 0.0008 ms
+Iteration 157: 0.0007 ms
+Iteration 158: 0.0005 ms
+Iteration 159: 0.0007 ms
+Iteration 160: 0.0007 ms
+Iteration 161: 0.0008 ms
+Iteration 162: 0.0008 ms
+Iteration 163: 0.0008 ms
+Iteration 164: 0.0008 ms
+Iteration 165: 0.0006 ms
+Iteration 166: 0.0007 ms
+Iteration 167: 0.0005 ms
+Iteration 168: 0.0007 ms
+Iteration 169: 0.0007 ms
+Iteration 170: 0.0006 ms
+Iteration 171: 0.0007 ms
+Iteration 172: 0.0007 ms
+Iteration 173: 0.0007 ms
+Iteration 174: 0.0008 ms
+Iteration 175: 0.0007 ms
+Iteration 176: 0.0007 ms
+Iteration 177: 0.0008 ms
+Iteration 178: 0.0008 ms
+Iteration 179: 0.0008 ms
+Iteration 180: 0.0008 ms
+Iteration 181: 0.0007 ms
+Iteration 182: 0.0007 ms
+Iteration 183: 0.0007 ms
+Iteration 184: 0.0008 ms
+Iteration 185: 0.0008 ms
+Iteration 186: 0.0009 ms
+Iteration 187: 0.0008 ms
+Iteration 188: 0.0005 ms
+Iteration 189: 0.0007 ms
+Iteration 190: 0.0003 ms
+Iteration 191: 0.0007 ms
+Iteration 192: 0.0007 ms
+Iteration 193: 0.0003 ms
+Iteration 194: 0.0005 ms
+Iteration 195: 0.0007 ms
+Iteration 196: 0.0005 ms
+Iteration 197: 0.0007 ms
+Iteration 198: 0.0003 ms
+Iteration 199: 0.0005 ms
+Iteration 200: 0.0007 ms
+Iteration 201: 0.0008 ms
+Iteration 202: 0.0007 ms
+Iteration 203: 0.0008 ms
+Iteration 204: 0.0006 ms
+Iteration 205: 0.0008 ms
+Iteration 206: 0.0008 ms
+Iteration 207: 0.0007 ms
+Iteration 208: 0.0008 ms
+Iteration 209: 0.0006 ms
+Iteration 210: 0.0007 ms
+Iteration 211: 0.0003 ms
+Iteration 212: 0.0006 ms
+Iteration 213: 0.0006 ms
+Iteration 214: 0.0007 ms
+Iteration 215: 0.0007 ms
+Iteration 216: 0.0007 ms
+Iteration 217: 0.0008 ms
+Iteration 218: 0.0005 ms
+Iteration 219: 0.0008 ms
+Iteration 220: 0.0007 ms
+Iteration 221: 0.0008 ms
+Iteration 222: 0.0008 ms
+Iteration 223: 0.0007 ms
+Iteration 224: 0.0007 ms
+Iteration 225: 0.0008 ms
+Iteration 226: 0.0008 ms
+Iteration 227: 0.0007 ms
+Iteration 228: 0.0008 ms
+Iteration 229: 0.0008 ms
+Iteration 230: 0.0008 ms
+Iteration 231: 0.0008 ms
+Iteration 232: 0.0007 ms
+Iteration 233: 0.0008 ms
+Iteration 234: 0.0007 ms
+Iteration 235: 0.0008 ms
+Iteration 236: 0.0008 ms
+Iteration 237: 0.0008 ms
+Iteration 238: 0.0007 ms
+Iteration 239: 0.0008 ms
+Iteration 240: 0.0007 ms
+Iteration 241: 0.0007 ms
+Iteration 242: 0.0007 ms
+Iteration 243: 0.0007 ms
+Iteration 244: 0.0008 ms
+Iteration 245: 0.0008 ms
+Iteration 246: 0.0007 ms
+Iteration 247: 0.0008 ms
+Iteration 248: 0.0007 ms
+Iteration 249: 0.0008 ms
+Iteration 250: 0.0007 ms
+Iteration 251: 0.0007 ms
+Iteration 252: 0.0005 ms
+Iteration 253: 0.0007 ms
+Iteration 254: 0.0008 ms
+Iteration 255: 0.0008 ms
+Iteration 256: 0.0007 ms
+Iteration 257: 0.0006 ms
+Iteration 258: 0.0004 ms
+Iteration 259: 0.0003 ms
+Iteration 260: 0.0007 ms
+Iteration 261: 0.0008 ms
+Iteration 262: 0.0007 ms
+Iteration 263: 0.0004 ms
+Iteration 264: 0.0005 ms
+Iteration 265: 0.0003 ms
+Iteration 266: 0.0007 ms
+Iteration 267: 0.0008 ms
+Iteration 268: 0.0006 ms
+Iteration 269: 0.0007 ms
+Iteration 270: 0.0007 ms
+Iteration 271: 0.0007 ms
+Iteration 272: 0.0008 ms
+Iteration 273: 0.0008 ms
+Iteration 274: 0.0007 ms
+Iteration 275: 0.0006 ms
+Iteration 276: 0.0005 ms
+Iteration 277: 0.0007 ms
+Iteration 278: 0.0007 ms
+Iteration 279: 0.0007 ms
+Iteration 280: 0.0007 ms
+Iteration 281: 0.0007 ms
+Iteration 282: 0.0005 ms
+Iteration 283: 0.0007 ms
+Iteration 284: 0.0008 ms
+Iteration 285: 0.0008 ms
+Iteration 286: 0.0007 ms
+Iteration 287: 0.0007 ms
+Iteration 288: 0.0007 ms
+Iteration 289: 0.0007 ms
+Iteration 290: 0.0008 ms
+Iteration 291: 0.0008 ms
+Iteration 292: 0.0008 ms
+Iteration 293: 0.0006 ms
+Iteration 294: 0.0008 ms
+Iteration 295: 0.0005 ms
+Iteration 296: 0.0005 ms
+Iteration 297: 0.0007 ms
+Iteration 298: 0.0008 ms
+Iteration 299: 0.0008 ms
+Iteration 300: 0.0007 ms
+Iteration 301: 0.0008 ms
+Iteration 302: 0.0008 ms
+Iteration 303: 0.0005 ms
+Iteration 304: 0.0008 ms
+Iteration 305: 0.0007 ms
+Iteration 306: 0.0005 ms
+Iteration 307: 0.0008 ms
+Iteration 308: 0.0006 ms
+Iteration 309: 0.0007 ms
+Iteration 310: 0.0007 ms
+Iteration 311: 0.0007 ms
+Iteration 312: 0.0007 ms
+Iteration 313: 0.0006 ms
+Iteration 314: 0.0007 ms
+Iteration 315: 0.0006 ms
+Iteration 316: 0.0007 ms
+Iteration 317: 0.0007 ms
+Iteration 318: 0.0007 ms
+Iteration 319: 0.0008 ms
+Iteration 320: 0.0008 ms
+Iteration 321: 0.0008 ms
+Iteration 322: 0.0008 ms
+Iteration 323: 0.0007 ms
+Iteration 324: 0.0008 ms
+Iteration 325: 0.0008 ms
+Iteration 326: 0.0005 ms
+Iteration 327: 0.0007 ms
+Iteration 328: 0.0007 ms
+Iteration 329: 0.0007 ms
+Iteration 330: 0.0007 ms
+Iteration 331: 0.0008 ms
+Iteration 332: 0.0007 ms
+Iteration 333: 0.0007 ms
+Iteration 334: 0.0004 ms
+Iteration 335: 0.0007 ms
+Iteration 336: 0.0007 ms
+Iteration 337: 0.0008 ms
+Iteration 338: 0.0007 ms
+Iteration 339: 0.0007 ms
+Iteration 340: 0.0007 ms
+Iteration 341: 0.0008 ms
+Iteration 342: 0.0007 ms
+Iteration 343: 0.0007 ms
+Iteration 344: 0.0007 ms
+Iteration 345: 0.0006 ms
+Iteration 346: 0.0008 ms
+Iteration 347: 0.0006 ms
+Iteration 348: 0.0005 ms
+Iteration 349: 0.0006 ms
+Iteration 350: 0.0005 ms
+Iteration 351: 0.0007 ms
+Iteration 352: 0.0006 ms
+Iteration 353: 0.0006 ms
+Iteration 354: 0.0007 ms
+Iteration 355: 0.0008 ms
+Iteration 356: 0.0008 ms
+Iteration 357: 0.0008 ms
+Iteration 358: 0.0006 ms
+Iteration 359: 0.0008 ms
+Iteration 360: 0.0007 ms
+Iteration 361: 0.0007 ms
+Iteration 362: 0.0005 ms
+Iteration 363: 0.0008 ms
+Iteration 364: 0.0007 ms
+Iteration 365: 0.0003 ms
+Iteration 366: 0.0005 ms
+Iteration 367: 0.0006 ms
+Iteration 368: 0.0006 ms
+Iteration 369: 0.0007 ms
+Iteration 370: 0.0007 ms
+Iteration 371: 0.0006 ms
+Iteration 372: 0.0003 ms
+Iteration 373: 0.0005 ms
+Iteration 374: 0.0007 ms
+Iteration 375: 0.0008 ms
+Iteration 376: 0.0007 ms
+Iteration 377: 0.0009 ms
+Iteration 378: 0.0008 ms
+Iteration 379: 0.0008 ms
+Iteration 380: 0.0008 ms
+Iteration 381: 0.0008 ms
+Iteration 382: 0.0008 ms
+Iteration 383: 0.0007 ms
+Iteration 384: 0.0007 ms
+Iteration 385: 0.0007 ms
+Iteration 386: 0.0006 ms
+Iteration 387: 0.0007 ms
+Iteration 388: 0.0007 ms
+Iteration 389: 0.0007 ms
+Iteration 390: 0.0005 ms
+Iteration 391: 0.0008 ms
+Iteration 392: 0.0008 ms
+Iteration 393: 0.0006 ms
+Iteration 394: 0.0007 ms
+Iteration 395: 0.0007 ms
+Iteration 396: 0.0007 ms
+Iteration 397: 0.0007 ms
+Iteration 398: 0.0006 ms
+Iteration 399: 0.0007 ms
+Iteration 400: 0.0008 ms
+Iteration 1: 0.0005 ms
+Iteration 2: 0.0004 ms
+Iteration 3: 0.0003 ms
+Iteration 4: 0.0003 ms
+Iteration 5: 0.0003 ms
+Iteration 6: 0.0004 ms
+Iteration 7: 0.0005 ms
+Iteration 8: 0.0006 ms
+Iteration 9: 0.0003 ms
+Iteration 10: 0.0005 ms
+Iteration 11: 0.0005 ms
+Iteration 12: 0.0005 ms
+Iteration 13: 0.0005 ms
+Iteration 14: 0.0006 ms
+Iteration 15: 0.0005 ms
+Iteration 16: 0.0003 ms
+Iteration 17: 0.0004 ms
+Iteration 18: 0.0003 ms
+Iteration 19: 0.0005 ms
+Iteration 20: 0.0007 ms
+Iteration 21: 0.0003 ms
+Iteration 22: 0.0003 ms
+Iteration 23: 0.0004 ms
+Iteration 24: 0.0003 ms
+Iteration 25: 0.0005 ms
+Iteration 26: 0.0005 ms
+Iteration 27: 0.0003 ms
+Iteration 28: 0.0003 ms
+Iteration 29: 0.0003 ms
+Iteration 30: 0.0002 ms
+Iteration 31: 0.0003 ms
+Iteration 32: 0.0003 ms
+Iteration 33: 0.0002 ms
+Iteration 34: 0.0003 ms
+Iteration 35: 0.0003 ms
+Iteration 36: 0.0003 ms
+Iteration 37: 0.0003 ms
+Iteration 38: 0.0002 ms
+Iteration 39: 0.0002 ms
+Iteration 40: 0.0002 ms
+Iteration 41: 0.0002 ms
+Iteration 42: 0.0003 ms
+Iteration 43: 0.0003 ms
+Iteration 44: 0.0003 ms
+Iteration 45: 0.0003 ms
+Iteration 46: 0.0002 ms
+Iteration 47: 0.0002 ms
+Iteration 48: 0.0003 ms
+Iteration 49: 0.0004 ms
+Iteration 50: 0.0003 ms
+Iteration 51: 0.0002 ms
+Iteration 52: 0.0003 ms
+Iteration 53: 0.0003 ms
+Iteration 54: 0.0003 ms
+Iteration 55: 0.0003 ms
+Iteration 56: 0.0003 ms
+Iteration 57: 0.0003 ms
+Iteration 58: 0.0003 ms
+Iteration 59: 0.0003 ms
+Iteration 60: 0.0002 ms
+Iteration 61: 0.0003 ms
+Iteration 62: 0.0003 ms
+Iteration 63: 0.0003 ms
+Iteration 64: 0.0003 ms
+Iteration 65: 0.0003 ms
+Iteration 66: 0.0003 ms
+Iteration 67: 0.0003 ms
+Iteration 68: 0.0003 ms
+Iteration 69: 0.0003 ms
+Iteration 70: 0.0003 ms
+Iteration 71: 0.0003 ms
+Iteration 72: 0.0002 ms
+Iteration 73: 0.0002 ms
+Iteration 74: 0.0002 ms
+Iteration 75: 0.0003 ms
+Iteration 76: 0.0003 ms
+Iteration 77: 0.0003 ms
+Iteration 78: 0.0003 ms
+Iteration 79: 0.0003 ms
+Iteration 80: 0.0003 ms
+Iteration 81: 0.0003 ms
+Iteration 82: 0.0003 ms
+Iteration 83: 0.0002 ms
+Iteration 84: 0.0002 ms
+Iteration 85: 0.0002 ms
+Iteration 86: 0.0002 ms
+Iteration 87: 0.0003 ms
+Iteration 88: 0.0003 ms
+Iteration 89: 0.0003 ms
+Iteration 90: 0.0003 ms
+Iteration 91: 0.0003 ms
+Iteration 92: 0.0003 ms
+Iteration 93: 0.0003 ms
+Iteration 94: 0.0003 ms
+Iteration 95: 0.0002 ms
+Iteration 96: 0.0002 ms
+Iteration 97: 0.0002 ms
+Iteration 98: 0.0002 ms
+Iteration 99: 0.0002 ms
+Iteration 100: 0.0003 ms
+Iteration 101: 0.0003 ms
+Iteration 102: 0.0003 ms
+Iteration 103: 0.0003 ms
+Iteration 104: 0.0003 ms
+Iteration 105: 0.0003 ms
+Iteration 106: 0.0003 ms
+Iteration 107: 0.0003 ms
+Iteration 108: 0.0003 ms
+Iteration 109: 0.0002 ms
+Iteration 110: 0.0002 ms
+Iteration 111: 0.0003 ms
+Iteration 112: 0.0003 ms
+Iteration 113: 0.0003 ms
+Iteration 114: 0.0003 ms
+Iteration 115: 0.0003 ms
+Iteration 116: 0.0003 ms
+Iteration 117: 0.0003 ms
+Iteration 118: 0.0003 ms
+Iteration 119: 0.0002 ms
+Iteration 120: 0.0002 ms
+Iteration 121: 0.0003 ms
+Iteration 122: 0.0003 ms
+Iteration 123: 0.0003 ms
+Iteration 124: 0.0003 ms
+Iteration 125: 0.0003 ms
+Iteration 126: 0.0003 ms
+Iteration 127: 0.0002 ms
+Iteration 128: 0.0002 ms
+Iteration 129: 0.0002 ms
+Iteration 130: 0.0005 ms
+Iteration 131: 0.0006 ms
+Iteration 132: 0.0006 ms
+Iteration 133: 0.0003 ms
+Iteration 134: 0.0007 ms
+Iteration 135: 0.0006 ms
+Iteration 136: 0.0007 ms
+Iteration 137: 0.0004 ms
+Iteration 138: 0.0006 ms
+Iteration 139: 0.0007 ms
+Iteration 140: 0.0007 ms
+Iteration 141: 0.0003 ms
+Iteration 142: 0.0007 ms
+Iteration 143: 0.0007 ms
+Iteration 144: 0.0004 ms
+Iteration 145: 0.0006 ms
+Iteration 146: 0.0006 ms
+Iteration 147: 0.0007 ms
+Iteration 148: 0.0005 ms
+Iteration 149: 0.0006 ms
+Iteration 150: 0.0006 ms
+Iteration 151: 0.0006 ms
+Iteration 152: 0.0002 ms
+Iteration 153: 0.0005 ms
+Iteration 154: 0.0006 ms
+Iteration 155: 0.0006 ms
+Iteration 156: 0.0005 ms
+Iteration 157: 0.0005 ms
+Iteration 158: 0.0006 ms
+Iteration 159: 0.0006 ms
+Iteration 160: 0.0006 ms
+Iteration 161: 0.0006 ms
+Iteration 162: 0.0007 ms
+Iteration 163: 0.0005 ms
+Iteration 164: 0.0004 ms
+Iteration 165: 0.0003 ms
+Iteration 166: 0.0006 ms
+Iteration 167: 0.0003 ms
+Iteration 168: 0.0006 ms
+Iteration 169: 0.0005 ms
+Iteration 170: 0.0003 ms
+Iteration 171: 0.0004 ms
+Iteration 172: 0.0003 ms
+Iteration 173: 0.0006 ms
+Iteration 174: 0.0007 ms
+Iteration 175: 0.0006 ms
+Iteration 176: 0.0007 ms
+Iteration 177: 0.0007 ms
+Iteration 178: 0.0007 ms
+Iteration 179: 0.0004 ms
+Iteration 180: 0.0003 ms
+Iteration 181: 0.0003 ms
+Iteration 182: 0.0002 ms
+Iteration 183: 0.0003 ms
+Iteration 184: 0.0004 ms
+Iteration 185: 0.0004 ms
+Iteration 186: 0.0006 ms
+Iteration 187: 0.0006 ms
+Iteration 188: 0.0007 ms
+Iteration 189: 0.0007 ms
+Iteration 190: 0.0007 ms
+Iteration 191: 0.0007 ms
+Iteration 192: 0.0004 ms
+Iteration 193: 0.0006 ms
+Iteration 194: 0.0006 ms
+Iteration 195: 0.0004 ms
+Iteration 196: 0.0004 ms
+Iteration 197: 0.0005 ms
+Iteration 198: 0.0006 ms
+Iteration 199: 0.0006 ms
+Iteration 200: 0.0003 ms
+Iteration 201: 0.0006 ms
+Iteration 202: 0.0006 ms
+Iteration 203: 0.0007 ms
+Iteration 204: 0.0003 ms
+Iteration 205: 0.0003 ms
+Iteration 206: 0.0006 ms
+Iteration 207: 0.0007 ms
+Iteration 208: 0.0007 ms
+Iteration 209: 0.0006 ms
+Iteration 210: 0.0006 ms
+Iteration 211: 0.0006 ms
+Iteration 212: 0.0005 ms
+Iteration 213: 0.0006 ms
+Iteration 214: 0.0007 ms
+Iteration 215: 0.0007 ms
+Iteration 216: 0.0006 ms
+Iteration 217: 0.0006 ms
+Iteration 218: 0.0006 ms
+Iteration 219: 0.0004 ms
+Iteration 220: 0.0006 ms
+Iteration 221: 0.0006 ms
+Iteration 222: 0.0006 ms
+Iteration 223: 0.0005 ms
+Iteration 224: 0.0003 ms
+Iteration 225: 0.0006 ms
+Iteration 226: 0.0006 ms
+Iteration 227: 0.0007 ms
+Iteration 228: 0.0006 ms
+Iteration 229: 0.0006 ms
+Iteration 230: 0.0005 ms
+Iteration 231: 0.0003 ms
+Iteration 232: 0.0004 ms
+Iteration 233: 0.0005 ms
+Iteration 234: 0.0003 ms
+Iteration 235: 0.0005 ms
+Iteration 236: 0.0007 ms
+Iteration 237: 0.0005 ms
+Iteration 238: 0.0004 ms
+Iteration 239: 0.0004 ms
+Iteration 240: 0.0004 ms
+Iteration 241: 0.0003 ms
+Iteration 242: 0.0002 ms
+Iteration 243: 0.0005 ms
+Iteration 244: 0.0007 ms
+Iteration 245: 0.0006 ms
+Iteration 246: 0.0006 ms
+Iteration 247: 0.0007 ms
+Iteration 248: 0.0006 ms
+Iteration 249: 0.0003 ms
+Iteration 250: 0.0006 ms
+Iteration 251: 0.0006 ms
+Iteration 252: 0.0005 ms
+Iteration 253: 0.0007 ms
+Iteration 254: 0.0005 ms
+Iteration 255: 0.0005 ms
+Iteration 256: 0.0007 ms
+Iteration 257: 0.0005 ms
+Iteration 258: 0.0005 ms
+Iteration 259: 0.0002 ms
+Iteration 260: 0.0004 ms
+Iteration 261: 0.0002 ms
+Iteration 262: 0.0002 ms
+Iteration 263: 0.0003 ms
+Iteration 264: 0.0003 ms
+Iteration 265: 0.0003 ms
+Iteration 266: 0.0003 ms
+Iteration 267: 0.0003 ms
+Iteration 268: 0.0003 ms
+Iteration 269: 0.0002 ms
+Iteration 270: 0.0002 ms
+Iteration 271: 0.0004 ms
+Iteration 272: 0.0003 ms
+Iteration 273: 0.0006 ms
+Iteration 274: 0.0006 ms
+Iteration 275: 0.0006 ms
+Iteration 276: 0.0006 ms
+Iteration 277: 0.0005 ms
+Iteration 278: 0.0006 ms
+Iteration 279: 0.0007 ms
+Iteration 280: 0.0005 ms
+Iteration 281: 0.0006 ms
+Iteration 282: 0.0006 ms
+Iteration 283: 0.0004 ms
+Iteration 284: 0.0006 ms
+Iteration 285: 0.0007 ms
+Iteration 286: 0.0007 ms
+Iteration 287: 0.0006 ms
+Iteration 288: 0.0006 ms
+Iteration 289: 0.0006 ms
+Iteration 290: 0.0002 ms
+Iteration 291: 0.0006 ms
+Iteration 292: 0.0004 ms
+Iteration 293: 0.0006 ms
+Iteration 294: 0.0006 ms
+Iteration 295: 0.0006 ms
+Iteration 296: 0.0005 ms
+Iteration 297: 0.0006 ms
+Iteration 298: 0.0003 ms
+Iteration 299: 0.0003 ms
+Iteration 300: 0.0005 ms
+Iteration 301: 0.0006 ms
+Iteration 302: 0.0007 ms
+Iteration 303: 0.0006 ms
+Iteration 304: 0.0005 ms
+Iteration 305: 0.0004 ms
+Iteration 306: 0.0005 ms
+Iteration 307: 0.0002 ms
+Iteration 308: 0.0004 ms
+Iteration 309: 0.0003 ms
+Iteration 310: 0.0003 ms
+Iteration 311: 0.0004 ms
+Iteration 312: 0.0006 ms
+Iteration 313: 0.0003 ms
+Iteration 314: 0.0003 ms
+Iteration 315: 0.0002 ms
+Iteration 316: 0.0002 ms
+Iteration 317: 0.0002 ms
+Iteration 318: 0.0003 ms
+Iteration 319: 0.0003 ms
+Iteration 320: 0.0003 ms
+Iteration 321: 0.0003 ms
+Iteration 322: 0.0006 ms
+Iteration 323: 0.0003 ms
+Iteration 324: 0.0003 ms
+Iteration 325: 0.0005 ms
+Iteration 326: 0.0007 ms
+Iteration 327: 0.0007 ms
+Iteration 328: 0.0005 ms
+Iteration 329: 0.0002 ms
+Iteration 330: 0.0006 ms
+Iteration 331: 0.0006 ms
+Iteration 332: 0.0003 ms
+Iteration 333: 0.0005 ms
+Iteration 334: 0.0006 ms
+Iteration 335: 0.0006 ms
+Iteration 336: 0.0005 ms
+Iteration 337: 0.0004 ms
+Iteration 338: 0.0003 ms
+Iteration 339: 0.0005 ms
+Iteration 340: 0.0003 ms
+Iteration 341: 0.0004 ms
+Iteration 342: 0.0003 ms
+Iteration 343: 0.0004 ms
+Iteration 344: 0.0003 ms
+Iteration 345: 0.0005 ms
+Iteration 346: 0.0007 ms
+Iteration 347: 0.0005 ms
+Iteration 348: 0.0007 ms
+Iteration 349: 0.0006 ms
+Iteration 350: 0.0007 ms
+Iteration 351: 0.0006 ms
+Iteration 352: 0.0005 ms
+Iteration 353: 0.0006 ms
+Iteration 354: 0.0003 ms
+Iteration 355: 0.0002 ms
+Iteration 356: 0.0002 ms
+Iteration 357: 0.0006 ms
+Iteration 358: 0.0005 ms
+Iteration 359: 0.0006 ms
+Iteration 360: 0.0003 ms
+Iteration 361: 0.0003 ms
+Iteration 362: 0.0007 ms
+Iteration 363: 0.0006 ms
+Iteration 364: 0.0006 ms
+Iteration 365: 0.0004 ms
+Iteration 366: 0.0007 ms
+Iteration 367: 0.0003 ms
+Iteration 368: 0.0003 ms
+Iteration 369: 0.0002 ms
+Iteration 370: 0.0005 ms
+Iteration 371: 0.0006 ms
+Iteration 372: 0.0007 ms
+Iteration 373: 0.0005 ms
+Iteration 374: 0.0003 ms
+Iteration 375: 0.0005 ms
+Iteration 376: 0.0007 ms
+Iteration 377: 0.0007 ms
+Iteration 378: 0.0006 ms
+Iteration 379: 0.0002 ms
+Iteration 380: 0.0002 ms
+Iteration 381: 0.0003 ms
+Iteration 382: 0.0003 ms
+Iteration 383: 0.0002 ms
+Iteration 384: 0.0004 ms
+Iteration 385: 0.0006 ms
+Iteration 386: 0.0006 ms
+Iteration 387: 0.0007 ms
+Iteration 388: 0.0006 ms
+Iteration 389: 0.0005 ms
+Iteration 390: 0.0003 ms
+Iteration 391: 0.0003 ms
+Iteration 392: 0.0002 ms
+Iteration 393: 0.0002 ms
+Iteration 394: 0.0002 ms
+Iteration 395: 0.0003 ms
+Iteration 396: 0.0003 ms
+Iteration 397: 0.0003 ms
+Iteration 398: 0.0005 ms
+Iteration 399: 0.0006 ms
+Iteration 400: 0.0005 ms
+Iteration 1: 0.0034 ms
+Iteration 2: 0.0059 ms
+Iteration 3: 0.0021 ms
+Iteration 4: 0.0019 ms
+Iteration 5: 0.0017 ms
+Iteration 6: 0.002 ms
+Iteration 7: 0.0035 ms
+Iteration 8: 0.0027 ms
+Iteration 9: 0.0016 ms
+Iteration 10: 0.0017 ms
+Iteration 11: 0.004 ms
+Iteration 12: 0.0037 ms
+Iteration 13: 0.003 ms
+Iteration 14: 0.0027 ms
+Iteration 15: 0.003 ms
+Iteration 16: 0.0038 ms
+Iteration 17: 0.0026 ms
+Iteration 18: 0.004 ms
+Iteration 19: 0.0037 ms
+Iteration 20: 0.003 ms
+Iteration 21: 0.0027 ms
+Iteration 22: 0.0036 ms
+Iteration 23: 0.0037 ms
+Iteration 24: 0.002 ms
+Iteration 25: 0.003 ms
+Iteration 26: 0.0037 ms
+Iteration 27: 0.0029 ms
+Iteration 28: 0.0036 ms
+Iteration 29: 0.0027 ms
+Iteration 30: 0.0035 ms
+Iteration 31: 0.0037 ms
+Iteration 32: 0.0026 ms
+Iteration 33: 0.0029 ms
+Iteration 34: 0.002 ms
+Iteration 35: 0.0016 ms
+Iteration 36: 0.0025 ms
+Iteration 37: 0.0028 ms
+Iteration 38: 0.0037 ms
+Iteration 39: 0.0036 ms
+Iteration 40: 0.0037 ms
+Iteration 41: 0.0036 ms
+Iteration 42: 0.0028 ms
+Iteration 43: 0.0035 ms
+Iteration 44: 0.0036 ms
+Iteration 45: 0.0037 ms
+Iteration 46: 0.0037 ms
+Iteration 47: 0.0035 ms
+Iteration 48: 0.0037 ms
+Iteration 49: 0.0036 ms
+Iteration 50: 0.0037 ms
+Iteration 51: 0.0036 ms
+Iteration 52: 0.0038 ms
+Iteration 53: 0.0027 ms
+Iteration 54: 0.0027 ms
+Iteration 55: 0.0026 ms
+Iteration 56: 0.0028 ms
+Iteration 57: 0.0033 ms
+Iteration 58: 0.0037 ms
+Iteration 59: 0.0125 ms
+Iteration 60: 0.0017 ms
+Iteration 61: 0.0018 ms
+Iteration 62: 0.0016 ms
+Iteration 63: 0.0027 ms
+Iteration 64: 0.0019 ms
+Iteration 65: 0.0019 ms
+Iteration 66: 0.0027 ms
+Iteration 67: 0.0016 ms
+Iteration 68: 0.0016 ms
+Iteration 69: 0.0017 ms
+Iteration 70: 0.0016 ms
+Iteration 71: 0.0017 ms
+Iteration 72: 0.0016 ms
+Iteration 73: 0.0017 ms
+Iteration 74: 0.0016 ms
+Iteration 75: 0.0016 ms
+Iteration 76: 0.0032 ms
+Iteration 77: 0.0037 ms
+Iteration 78: 0.0018 ms
+Iteration 79: 0.0018 ms
+Iteration 80: 0.0019 ms
+Iteration 81: 0.0016 ms
+Iteration 82: 0.0016 ms
+Iteration 83: 0.0015 ms
+Iteration 84: 0.0016 ms
+Iteration 85: 0.0017 ms
+Iteration 86: 0.0017 ms
+Iteration 87: 0.0015 ms
+Iteration 88: 0.0017 ms
+Iteration 89: 0.0016 ms
+Iteration 90: 0.0016 ms
+Iteration 91: 0.0015 ms
+Iteration 92: 0.0017 ms
+Iteration 93: 0.0015 ms
+Iteration 94: 0.0017 ms
+Iteration 95: 0.0016 ms
+Iteration 96: 0.0017 ms
+Iteration 97: 0.0016 ms
+Iteration 98: 0.0017 ms
+Iteration 99: 0.0015 ms
+Iteration 100: 0.0015 ms
+Iteration 101: 0.0015 ms
+Iteration 102: 0.0016 ms
+Iteration 103: 0.0015 ms
+Iteration 104: 0.0015 ms
+Iteration 105: 0.0015 ms
+Iteration 106: 0.0016 ms
+Iteration 107: 0.0015 ms
+Iteration 108: 0.0015 ms
+Iteration 109: 0.0015 ms
+Iteration 110: 0.0016 ms
+Iteration 111: 0.0015 ms
+Iteration 112: 0.0015 ms
+Iteration 113: 0.0015 ms
+Iteration 114: 0.0016 ms
+Iteration 115: 0.0015 ms
+Iteration 116: 0.0015 ms
+Iteration 117: 0.0015 ms
+Iteration 118: 0.0016 ms
+Iteration 119: 0.0015 ms
+Iteration 120: 0.0015 ms
+Iteration 121: 0.0015 ms
+Iteration 122: 0.0016 ms
+Iteration 123: 0.0014 ms
+Iteration 124: 0.0015 ms
+Iteration 125: 0.0015 ms
+Iteration 126: 0.0016 ms
+Iteration 127: 0.0015 ms
+Iteration 128: 0.0015 ms
+Iteration 129: 0.0015 ms
+Iteration 130: 0.0015 ms
+Iteration 131: 0.0015 ms
+Iteration 132: 0.0016 ms
+Iteration 133: 0.0015 ms
+Iteration 134: 0.0016 ms
+Iteration 135: 0.0015 ms
+Iteration 136: 0.0016 ms
+Iteration 137: 0.0015 ms
+Iteration 138: 0.0015 ms
+Iteration 139: 0.0015 ms
+Iteration 140: 0.0016 ms
+Iteration 141: 0.0015 ms
+Iteration 142: 0.0016 ms
+Iteration 143: 0.0015 ms
+Iteration 144: 0.0016 ms
+Iteration 145: 0.0015 ms
+Iteration 146: 0.0016 ms
+Iteration 147: 0.0015 ms
+Iteration 148: 0.0016 ms
+Iteration 149: 0.0015 ms
+Iteration 150: 0.0015 ms
+Iteration 151: 0.0015 ms
+Iteration 152: 0.0015 ms
+Iteration 153: 0.0015 ms
+Iteration 154: 0.0015 ms
+Iteration 155: 0.0015 ms
+Iteration 156: 0.0015 ms
+Iteration 157: 0.0016 ms
+Iteration 158: 0.0015 ms
+Iteration 159: 0.0015 ms
+Iteration 160: 0.0015 ms
+Iteration 161: 0.0015 ms
+Iteration 162: 0.0015 ms
+Iteration 163: 0.0016 ms
+Iteration 164: 0.0014 ms
+Iteration 165: 0.0015 ms
+Iteration 166: 0.0015 ms
+Iteration 167: 0.0016 ms
+Iteration 168: 0.0015 ms
+Iteration 169: 0.0015 ms
+Iteration 170: 0.0015 ms
+Iteration 171: 0.0015 ms
+Iteration 172: 0.0015 ms
+Iteration 173: 0.0016 ms
+Iteration 174: 0.0015 ms
+Iteration 175: 0.0016 ms
+Iteration 176: 0.0015 ms
+Iteration 177: 0.0015 ms
+Iteration 178: 0.0015 ms
+Iteration 179: 0.0015 ms
+Iteration 180: 0.0015 ms
+Iteration 181: 0.0015 ms
+Iteration 182: 0.0015 ms
+Iteration 183: 0.0016 ms
+Iteration 184: 0.0015 ms
+Iteration 185: 0.0014 ms
+Iteration 186: 0.0016 ms
+Iteration 187: 0.0016 ms
+Iteration 188: 0.0015 ms
+Iteration 189: 0.0015 ms
+Iteration 190: 0.0015 ms
+Iteration 191: 0.0015 ms
+Iteration 192: 0.0015 ms
+Iteration 193: 0.0016 ms
+Iteration 194: 0.0015 ms
+Iteration 195: 0.0015 ms
+Iteration 196: 0.0014 ms
+Iteration 197: 0.0016 ms
+Iteration 198: 0.0015 ms
+Iteration 199: 0.0015 ms
+Iteration 200: 0.0015 ms
+Iteration 201: 0.0016 ms
+Iteration 202: 0.0015 ms
+Iteration 203: 0.0015 ms
+Iteration 204: 0.0015 ms
+Iteration 205: 0.0016 ms
+Iteration 206: 0.0015 ms
+Iteration 207: 0.0015 ms
+Iteration 208: 0.0014 ms
+Iteration 209: 0.0016 ms
+Iteration 210: 0.0015 ms
+Iteration 211: 0.0015 ms
+Iteration 212: 0.0015 ms
+Iteration 213: 0.0015 ms
+Iteration 214: 0.0015 ms
+Iteration 215: 0.0016 ms
+Iteration 216: 0.0015 ms
+Iteration 217: 0.0031 ms
+Iteration 218: 0.0018 ms
+Iteration 219: 0.0026 ms
+Iteration 220: 0.0027 ms
+Iteration 221: 0.0017 ms
+Iteration 222: 0.0027 ms
+Iteration 223: 0.0027 ms
+Iteration 224: 0.0033 ms
+Iteration 225: 0.0023 ms
+Iteration 226: 0.0028 ms
+Iteration 227: 0.0025 ms
+Iteration 228: 0.0031 ms
+Iteration 229: 0.0024 ms
+Iteration 230: 0.0016 ms
+Iteration 231: 0.0026 ms
+Iteration 232: 0.0027 ms
+Iteration 233: 0.003 ms
+Iteration 234: 0.0028 ms
+Iteration 235: 0.003 ms
+Iteration 236: 0.0029 ms
+Iteration 237: 0.0017 ms
+Iteration 238: 0.0026 ms
+Iteration 239: 0.0027 ms
+Iteration 240: 0.0028 ms
+Iteration 241: 0.0026 ms
+Iteration 242: 0.0018 ms
+Iteration 243: 0.0027 ms
+Iteration 244: 0.0028 ms
+Iteration 245: 0.0018 ms
+Iteration 246: 0.0024 ms
+Iteration 247: 0.0027 ms
+Iteration 248: 0.0031 ms
+Iteration 249: 0.0027 ms
+Iteration 250: 0.0028 ms
+Iteration 251: 0.0027 ms
+Iteration 252: 0.003 ms
+Iteration 253: 0.0027 ms
+Iteration 254: 0.0026 ms
+Iteration 255: 0.0021 ms
+Iteration 256: 0.0017 ms
+Iteration 257: 0.0015 ms
+Iteration 258: 0.0016 ms
+Iteration 259: 0.0016 ms
+Iteration 260: 0.0016 ms
+Iteration 261: 0.0016 ms
+Iteration 262: 0.0015 ms
+Iteration 263: 0.0015 ms
+Iteration 264: 0.0015 ms
+Iteration 265: 0.0015 ms
+Iteration 266: 0.0015 ms
+Iteration 267: 0.0015 ms
+Iteration 268: 0.0015 ms
+Iteration 269: 0.0015 ms
+Iteration 270: 0.0015 ms
+Iteration 271: 0.0015 ms
+Iteration 272: 0.0015 ms
+Iteration 273: 0.0015 ms
+Iteration 274: 0.0015 ms
+Iteration 275: 0.0015 ms
+Iteration 276: 0.0015 ms
+Iteration 277: 0.0015 ms
+Iteration 278: 0.0015 ms
+Iteration 279: 0.0015 ms
+Iteration 280: 0.0015 ms
+Iteration 281: 0.0015 ms
+Iteration 282: 0.0015 ms
+Iteration 283: 0.0015 ms
+Iteration 284: 0.0015 ms
+Iteration 285: 0.0015 ms
+Iteration 286: 0.0016 ms
+Iteration 287: 0.0014 ms
+Iteration 288: 0.0015 ms
+Iteration 289: 0.0015 ms
+Iteration 290: 0.0015 ms
+Iteration 291: 0.0015 ms
+Iteration 292: 0.0015 ms
+Iteration 293: 0.0015 ms
+Iteration 294: 0.0015 ms
+Iteration 295: 0.0015 ms
+Iteration 296: 0.0015 ms
+Iteration 297: 0.0015 ms
+Iteration 298: 0.0015 ms
+Iteration 299: 0.0015 ms
+Iteration 300: 0.0015 ms
+Iteration 301: 0.0015 ms
+Iteration 302: 0.0015 ms
+Iteration 303: 0.0015 ms
+Iteration 304: 0.0015 ms
+Iteration 305: 0.0015 ms
+Iteration 306: 0.0015 ms
+Iteration 307: 0.0016 ms
+Iteration 308: 0.0016 ms
+Iteration 309: 0.0015 ms
+Iteration 310: 0.0016 ms
+Iteration 311: 0.0015 ms
+Iteration 312: 0.0016 ms
+Iteration 313: 0.0015 ms
+Iteration 314: 0.0015 ms
+Iteration 315: 0.0015 ms
+Iteration 316: 0.0015 ms
+Iteration 317: 0.0015 ms
+Iteration 318: 0.0015 ms
+Iteration 319: 0.0015 ms
+Iteration 320: 0.0015 ms
+Iteration 321: 0.0015 ms
+Iteration 322: 0.0015 ms
+Iteration 323: 0.0015 ms
+Iteration 324: 0.0015 ms
+Iteration 325: 0.0016 ms
+Iteration 326: 0.0016 ms
+Iteration 327: 0.0016 ms
+Iteration 328: 0.0015 ms
+Iteration 329: 0.0015 ms
+Iteration 330: 0.0015 ms
+Iteration 331: 0.0015 ms
+Iteration 332: 0.0015 ms
+Iteration 333: 0.0015 ms
+Iteration 334: 0.0015 ms
+Iteration 335: 0.0015 ms
+Iteration 336: 0.0015 ms
+Iteration 337: 0.0015 ms
+Iteration 338: 0.0015 ms
+Iteration 339: 0.0015 ms
+Iteration 340: 0.0016 ms
+Iteration 341: 0.0015 ms
+Iteration 342: 0.0015 ms
+Iteration 343: 0.0016 ms
+Iteration 344: 0.0015 ms
+Iteration 345: 0.0015 ms
+Iteration 346: 0.0016 ms
+Iteration 347: 0.0018 ms
+Iteration 348: 0.0019 ms
+Iteration 349: 0.0018 ms
+Iteration 350: 0.0019 ms
+Iteration 351: 0.0018 ms
+Iteration 352: 0.0019 ms
+Iteration 353: 0.0018 ms
+Iteration 354: 0.0018 ms
+Iteration 355: 0.0018 ms
+Iteration 356: 0.0018 ms
+Iteration 357: 0.0018 ms
+Iteration 358: 0.0019 ms
+Iteration 359: 0.0018 ms
+Iteration 360: 0.0018 ms
+Iteration 361: 0.0018 ms
+Iteration 362: 0.0018 ms
+Iteration 363: 0.0018 ms
+Iteration 364: 0.0018 ms
+Iteration 365: 0.0018 ms
+Iteration 366: 0.0018 ms
+Iteration 367: 0.0018 ms
+Iteration 368: 0.0019 ms
+Iteration 369: 0.0018 ms
+Iteration 370: 0.0018 ms
+Iteration 371: 0.0018 ms
+Iteration 372: 0.0018 ms
+Iteration 373: 0.0019 ms
+Iteration 374: 0.0018 ms
+Iteration 375: 0.0019 ms
+Iteration 376: 0.0019 ms
+Iteration 377: 0.0018 ms
+Iteration 378: 0.0019 ms
+Iteration 379: 0.0018 ms
+Iteration 380: 0.0018 ms
+Iteration 381: 0.0018 ms
+Iteration 382: 0.0018 ms
+Iteration 383: 0.0018 ms
+Iteration 384: 0.0028 ms
+Iteration 385: 0.0015 ms
+Iteration 386: 0.0014 ms
+Iteration 387: 0.0015 ms
+Iteration 388: 0.0015 ms
+Iteration 389: 0.0015 ms
+Iteration 390: 0.0015 ms
+Iteration 391: 0.0015 ms
+Iteration 392: 0.0016 ms
+Iteration 393: 0.0015 ms
+Iteration 394: 0.0015 ms
+Iteration 395: 0.0015 ms
+Iteration 396: 0.0015 ms
+Iteration 397: 0.0014 ms
+Iteration 398: 0.0015 ms
+Iteration 399: 0.0015 ms
+Iteration 400: 0.0015 ms
+Iteration 401: 0.0015 ms
+Iteration 402: 0.0015 ms
+Iteration 403: 0.0015 ms
+Iteration 404: 0.0015 ms
+Iteration 405: 0.0015 ms
+Iteration 406: 0.0015 ms
+Iteration 407: 0.0015 ms
+Iteration 408: 0.0015 ms
+Iteration 409: 0.0015 ms
+Iteration 410: 0.0015 ms
+Iteration 411: 0.0014 ms
+Iteration 412: 0.0015 ms
+Iteration 413: 0.0015 ms
+Iteration 414: 0.0015 ms
+Iteration 415: 0.0015 ms
+Iteration 416: 0.0015 ms
+Iteration 417: 0.0015 ms
+Iteration 418: 0.0015 ms
+Iteration 419: 0.0015 ms
+Iteration 420: 0.0015 ms
+Iteration 421: 0.0015 ms
+Iteration 422: 0.0014 ms
+Iteration 423: 0.0015 ms
+Iteration 424: 0.0015 ms
+Iteration 425: 0.0015 ms
+Iteration 426: 0.0015 ms
+Iteration 427: 0.0014 ms
+Iteration 428: 0.0015 ms
+Iteration 429: 0.0015 ms
+Iteration 430: 0.0015 ms
+Iteration 431: 0.0015 ms
+Iteration 432: 0.0015 ms
+Iteration 433: 0.0015 ms
+Iteration 434: 0.0015 ms
+Iteration 435: 0.0015 ms
+Iteration 436: 0.0015 ms
+Iteration 437: 0.0015 ms
+Iteration 438: 0.0015 ms
+Iteration 439: 0.0015 ms
+Iteration 440: 0.0015 ms
+Iteration 441: 0.0015 ms
+Iteration 442: 0.0015 ms
+Iteration 443: 0.0015 ms
+Iteration 444: 0.0015 ms
+Iteration 445: 0.0015 ms
+Iteration 446: 0.0015 ms
+Iteration 447: 0.0015 ms
+Iteration 448: 0.0015 ms
+Iteration 449: 0.0015 ms
+Iteration 450: 0.0015 ms
+Iteration 451: 0.0015 ms
+Iteration 452: 0.0015 ms
+Iteration 453: 0.0015 ms
+Iteration 454: 0.0015 ms
+Iteration 455: 0.0015 ms
+Iteration 456: 0.0014 ms
+Iteration 457: 0.0015 ms
+Iteration 458: 0.0015 ms
+Iteration 459: 0.0015 ms
+Iteration 460: 0.0015 ms
+Iteration 461: 0.0015 ms
+Iteration 462: 0.0015 ms
+Iteration 463: 0.0015 ms
+Iteration 464: 0.0015 ms
+Iteration 465: 0.0015 ms
+Iteration 466: 0.0015 ms
+Iteration 467: 0.0015 ms
+Iteration 468: 0.0015 ms
+Iteration 469: 0.0015 ms
+Iteration 470: 0.0014 ms
+Iteration 471: 0.0015 ms
+Iteration 472: 0.0015 ms
+Iteration 473: 0.0015 ms
+Iteration 474: 0.0015 ms
+Iteration 475: 0.0014 ms
+Iteration 476: 0.0015 ms
+Iteration 477: 0.0017 ms
+Iteration 478: 0.0037 ms
+Iteration 479: 0.0027 ms
+Iteration 480: 0.003 ms
+Iteration 481: 0.0018 ms
+Iteration 482: 0.0021 ms
+Iteration 483: 0.0028 ms
+Iteration 484: 0.003 ms
+Iteration 485: 0.0029 ms
+Iteration 486: 0.0029 ms
+Iteration 487: 0.0029 ms
+Iteration 488: 0.0029 ms
+Iteration 489: 0.003 ms
+Iteration 490: 0.0029 ms
+Iteration 491: 0.0026 ms
+Iteration 492: 0.0028 ms
+Iteration 493: 0.0029 ms
+Iteration 494: 0.0028 ms
+Iteration 495: 0.0029 ms
+Iteration 496: 0.0019 ms
+Iteration 497: 0.0027 ms
+Iteration 498: 0.003 ms
+Iteration 499: 0.0029 ms
+Iteration 500: 0.003 ms
+Iteration 1: 0.0002 ms
+Iteration 2: 0.0001 ms
+Iteration 3: 0.0001 ms
+Iteration 4: 0.0001 ms
+Iteration 5: 0 ms
+Iteration 6: 0.0001 ms
+Iteration 7: 0.0001 ms
+Iteration 8: 0 ms

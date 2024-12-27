@@ -25,3 +25,31 @@
 	<fstream>
 	"array_data.h"
 
+1735014315 source:d:\kuliah\semester 3\aka\cpp\aka tubes\aka tubes\array_data.cpp
+	"array_data.h"
+
+1735014320 d:\kuliah\semester 3\aka\cpp\aka tubes\aka tubes\array_data.h
+
+1735227026 source:d:\kuliah\semester 3\aka\cpp\aka tubes\aka tubes\main.cpp
+	<windows.h>
+	<sstream>
+	<string>
+	<chrono>
+	<fstream>
+	<algorithm>
+	<vector>
+	"array_data.h"
+
+1735014315 source:d:\kuliah\semester 3\aka\cpp\2\aka tubes\aka tubes\array_data.cpp
+	"array_data.h"
+
+1735014320 d:\kuliah\semester 3\aka\cpp\2\aka tubes\aka tubes\array_data.h
+
+1735316156 source:d:\kuliah\semester 3\aka\cpp\2\aka tubes\aka tubes\main.cpp
+	<windows.h>
+	<sstream>
+	<string>
+	<chrono>
+	<fstream>
+	<vector>
+
